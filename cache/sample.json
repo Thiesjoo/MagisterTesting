@@ -1,0 +1,1665 @@
+{
+    "data": {
+        "Items": [
+            {
+                "Id": 4096746,
+                "Links": [
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096746"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096720"
+                    }
+                ],
+                "Start": "2020-10-05T08:10:00.0000000Z",
+                "Einde": "2020-10-05T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nat - pzu - c6vnat3",
+                "Lokatie": "A210",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1188,
+                        "Naam": "natuurkunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 413,
+                        "Naam": "P.W. Zuurbier",
+                        "Docentcode": "pzu"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A210 (Praktijklokaal BI)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096720,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096746"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096720"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096736"
+                    }
+                ],
+                "Start": "2020-10-05T09:25:00.0000000Z",
+                "Einde": "2020-10-05T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "wisB - jho - c6vwisb1",
+                "Lokatie": "B201",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": "<p>H14: 19 t/m 23</p>",
+                "InfoType": 1,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1190,
+                        "Naam": "wiskunde B"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 502,
+                        "Naam": "J. van Hooff",
+                        "Docentcode": "jho"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "B201 (Theorielokaal WI)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096736,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096720"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096736"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096774"
+                    }
+                ],
+                "Start": "2020-10-05T10:15:00.0000000Z",
+                "Einde": "2020-10-05T11:05:00.0000000Z",
+                "LesuurVan": 5,
+                "LesuurTotMet": 5,
+                "DuurtHeleDag": false,
+                "Omschrijving": "netl - lpl - c6vc",
+                "Lokatie": "A104",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1225,
+                        "Naam": "Nederlandse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 277,
+                        "Naam": "L.P.L.M. Ploemmen",
+                        "Docentcode": "lpl"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A104 (Theorielokaal ne)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096774,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096736"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096774"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096733"
+                    }
+                ],
+                "Start": "2020-10-05T11:30:00.0000000Z",
+                "Einde": "2020-10-05T12:20:00.0000000Z",
+                "LesuurVan": 6,
+                "LesuurTotMet": 6,
+                "DuurtHeleDag": false,
+                "Omschrijving": "entl - ehn - c6vc",
+                "Lokatie": "A007",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1226,
+                        "Naam": "Engelse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 681,
+                        "Naam": "E.A.C. Heijne",
+                        "Docentcode": "ehn"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A007 (Theorielokaal en)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096733,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096774"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096733"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096699"
+                    }
+                ],
+                "Start": "2020-10-05T12:20:00.0000000Z",
+                "Einde": "2020-10-05T13:10:00.0000000Z",
+                "LesuurVan": 7,
+                "LesuurTotMet": 7,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nlt - pvs - c6vnlt1",
+                "Lokatie": "A005",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1200,
+                        "Naam": "natuur, leven en technologie"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 439,
+                        "Naam": "P.C. van Schagen",
+                        "Docentcode": "pvs"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A005 (Theorielokaal la)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096699,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096733"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096699"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096697"
+                    }
+                ],
+                "Start": "2020-10-05T13:10:00.0000000Z",
+                "Einde": "2020-10-05T14:00:00.0000000Z",
+                "LesuurVan": 8,
+                "LesuurTotMet": 8,
+                "DuurtHeleDag": false,
+                "Omschrijving": "dutl - tku - c6vdutl3",
+                "Lokatie": "A016",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1228,
+                        "Naam": "Duitse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 331,
+                        "Naam": "J.T. Kuperus",
+                        "Docentcode": "tku"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A016 (Theorielokaal DU)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096697,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096699"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096697"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4159262"
+                    }
+                ],
+                "Start": "2020-10-06T06:30:00.0000000Z",
+                "Einde": "2020-10-06T07:20:00.0000000Z",
+                "LesuurVan": 1,
+                "LesuurTotMet": 1,
+                "DuurtHeleDag": false,
+                "Omschrijving": "dutl - tku - c6vdutl3",
+                "Lokatie": "B203",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1228,
+                        "Naam": "Duitse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 331,
+                        "Naam": "J.T. Kuperus",
+                        "Docentcode": "tku"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "B203 (Theorielokaal wi)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4159262,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096697"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4159262"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4159266"
+                    }
+                ],
+                "Start": "2020-10-06T07:20:00.0000000Z",
+                "Einde": "2020-10-06T08:10:00.0000000Z",
+                "LesuurVan": 2,
+                "LesuurTotMet": 2,
+                "DuurtHeleDag": false,
+                "Omschrijving": "netl - lpl - c6vc",
+                "Lokatie": "A103",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1225,
+                        "Naam": "Nederlandse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 277,
+                        "Naam": "L.P.L.M. Ploemmen",
+                        "Docentcode": "lpl"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A103 (Theorielokaal NE)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4159266,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4159262"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4159266"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4159260"
+                    }
+                ],
+                "Start": "2020-10-06T08:10:00.0000000Z",
+                "Einde": "2020-10-06T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nat - pzu - c6vnat3",
+                "Lokatie": "A205",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1188,
+                        "Naam": "natuurkunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 413,
+                        "Naam": "P.W. Zuurbier",
+                        "Docentcode": "pzu"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A205 (Praktijklokaal NA)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4159260,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4159266"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4159260"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096728"
+                    }
+                ],
+                "Start": "2020-10-06T09:25:00.0000000Z",
+                "Einde": "2020-10-06T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "wisB - jho - c6vwisb1",
+                "Lokatie": "B203",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": "<p>H14: 24 t/m 27</p>",
+                "InfoType": 1,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1190,
+                        "Naam": "wiskunde B"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 502,
+                        "Naam": "J. van Hooff",
+                        "Docentcode": "jho"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "B203 (Theorielokaal wi)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096728,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4159260"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096728"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096737"
+                    }
+                ],
+                "Start": "2020-10-06T10:15:00.0000000Z",
+                "Einde": "2020-10-06T11:05:00.0000000Z",
+                "LesuurVan": 5,
+                "LesuurTotMet": 5,
+                "DuurtHeleDag": false,
+                "Omschrijving": "schk - pui - c6vschk3",
+                "Lokatie": "A212",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": "<p><b><b>Weektaak voorgaande week:</b></b><br></p><p><i>Onderstaande opdrachten/activiteiten hadden gedaan moeten zijn en af moeten zijn aan het eind van vorige week,&nbsp;</i><i>week 40 (maandag 28 september t/m vrijdag 2 oktober):</i></p><p>–Uitwerken Practicum 13&nbsp;</p><p>&nbsp;–Uitwerken Practicum 3&nbsp;</p><p>&nbsp;–Maken werkplan proef Verdunningsreeksen &nbsp;</p>",
+                "InfoType": 1,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1193,
+                        "Naam": "scheikunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 31262,
+                        "Naam": "P.J.E. Uijtdewilligen",
+                        "Docentcode": "pui"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A212 (Praktijklokaal SK)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096737,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096728"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096737"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096726"
+                    }
+                ],
+                "Start": "2020-10-07T06:30:00.0000000Z",
+                "Einde": "2020-10-07T07:20:00.0000000Z",
+                "LesuurVan": 1,
+                "LesuurTotMet": 1,
+                "DuurtHeleDag": false,
+                "Omschrijving": "netl - lpl - c6vc",
+                "Lokatie": "A104",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1225,
+                        "Naam": "Nederlandse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 277,
+                        "Naam": "L.P.L.M. Ploemmen",
+                        "Docentcode": "lpl"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A104 (Theorielokaal ne)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096726,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096737"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096726"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096768"
+                    }
+                ],
+                "Start": "2020-10-07T07:20:00.0000000Z",
+                "Einde": "2020-10-07T08:10:00.0000000Z",
+                "LesuurVan": 2,
+                "LesuurTotMet": 2,
+                "DuurtHeleDag": false,
+                "Omschrijving": "schk - pui - c6vschk3",
+                "Lokatie": "B202",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1193,
+                        "Naam": "scheikunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 31262,
+                        "Naam": "P.J.E. Uijtdewilligen",
+                        "Docentcode": "pui"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "B202 (Theorielokaal NLT, wi)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096768,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096726"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096768"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4138302"
+                    }
+                ],
+                "Start": "2020-10-07T08:10:00.0000000Z",
+                "Einde": "2020-10-07T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "lo - rmi - c6vc",
+                "Lokatie": "C006",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 81,
+                        "Naam": "lichamelijke opvoeding"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 574,
+                        "Naam": "R.A. Miner",
+                        "Docentcode": "rmi"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "C006 Kleine Gymzaal"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4138302,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096768"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4138302"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096767"
+                    }
+                ],
+                "Start": "2020-10-07T08:10:00.0000000Z",
+                "Einde": "2020-10-07T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "lo - wbe - c6vc",
+                "Lokatie": "C006",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 81,
+                        "Naam": "lichamelijke opvoeding"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 31481,
+                        "Naam": "W.V. Bernards",
+                        "Docentcode": "wbe"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "C006 Kleine Gymzaal"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096767,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4138302"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096767"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4138301"
+                    }
+                ],
+                "Start": "2020-10-07T09:25:00.0000000Z",
+                "Einde": "2020-10-07T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "lo - rmi - c6vc",
+                "Lokatie": "C006",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 81,
+                        "Naam": "lichamelijke opvoeding"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 574,
+                        "Naam": "R.A. Miner",
+                        "Docentcode": "rmi"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "C006 Kleine Gymzaal"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4138301,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096767"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4138301"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096698"
+                    }
+                ],
+                "Start": "2020-10-07T09:25:00.0000000Z",
+                "Einde": "2020-10-07T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "lo - wbe - c6vc",
+                "Lokatie": "C006",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 81,
+                        "Naam": "lichamelijke opvoeding"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 31481,
+                        "Naam": "W.V. Bernards",
+                        "Docentcode": "wbe"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "C006 Kleine Gymzaal"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096698,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4138301"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096698"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096714"
+                    }
+                ],
+                "Start": "2020-10-07T10:15:00.0000000Z",
+                "Einde": "2020-10-07T11:05:00.0000000Z",
+                "LesuurVan": 5,
+                "LesuurTotMet": 5,
+                "DuurtHeleDag": false,
+                "Omschrijving": "dutl - tku - c6vdutl3",
+                "Lokatie": "A016",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1228,
+                        "Naam": "Duitse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 331,
+                        "Naam": "J.T. Kuperus",
+                        "Docentcode": "tku"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A016 (Theorielokaal DU)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096714,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096698"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096714"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4149835"
+                    }
+                ],
+                "Start": "2020-10-07T11:30:00.0000000Z",
+                "Einde": "2020-10-07T12:20:00.0000000Z",
+                "LesuurVan": 6,
+                "LesuurTotMet": 6,
+                "DuurtHeleDag": false,
+                "Omschrijving": "wisD - jho - c6vwisd1",
+                "Lokatie": "B201",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": "<p>H14: 22 t/m 37</p>",
+                "InfoType": 1,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1192,
+                        "Naam": "wiskunde D"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 502,
+                        "Naam": "J. van Hooff",
+                        "Docentcode": "jho"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "B201 (Theorielokaal WI)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4149835,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096714"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4149835"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096727"
+                    }
+                ],
+                "Start": "2020-10-07T22:00:00.0000000Z",
+                "Einde": "2020-10-08T22:00:00.0000000Z",
+                "LesuurVan": null,
+                "LesuurTotMet": null,
+                "DuurtHeleDag": true,
+                "Omschrijving": "Roostervrije dag",
+                "Lokatie": "",
+                "Status": 2,
+                "Type": 6,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [],
+                "Docenten": [],
+                "Lokalen": [],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096727,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4149835"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096727"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096756"
+                    }
+                ],
+                "Start": "2020-10-08T07:20:00.0000000Z",
+                "Einde": "2020-10-08T08:10:00.0000000Z",
+                "LesuurVan": 2,
+                "LesuurTotMet": 2,
+                "DuurtHeleDag": false,
+                "Omschrijving": "schk - pui - c6vschk3",
+                "Lokatie": "A213",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1193,
+                        "Naam": "scheikunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 31262,
+                        "Naam": "P.J.E. Uijtdewilligen",
+                        "Docentcode": "pui"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A213 (Praktijklokaal SK)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096756,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096727"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096756"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096757"
+                    }
+                ],
+                "Start": "2020-10-08T08:10:00.0000000Z",
+                "Einde": "2020-10-08T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "in - msm - c6vin1",
+                "Lokatie": "A211",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 65,
+                        "Naam": "informatica"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 382,
+                        "Naam": "M. Smits",
+                        "Docentcode": "msm"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A211 (Praktijklokaal IN)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096757,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096756"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096757"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096750"
+                    }
+                ],
+                "Start": "2020-10-08T09:25:00.0000000Z",
+                "Einde": "2020-10-08T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "in - msm - c6vin1",
+                "Lokatie": "A211",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 65,
+                        "Naam": "informatica"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 382,
+                        "Naam": "M. Smits",
+                        "Docentcode": "msm"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A211 (Praktijklokaal IN)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096750,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096757"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096750"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096775"
+                    }
+                ],
+                "Start": "2020-10-08T10:15:00.0000000Z",
+                "Einde": "2020-10-08T11:05:00.0000000Z",
+                "LesuurVan": 5,
+                "LesuurTotMet": 5,
+                "DuurtHeleDag": false,
+                "Omschrijving": "men - kdo - c6vc",
+                "Lokatie": "A109",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1155,
+                        "Naam": "mentoruur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 636,
+                        "Naam": "F.F. van Donderen",
+                        "Docentcode": "kdo"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A109 (Theorielokaal EC)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096775,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096750"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096775"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096732"
+                    }
+                ],
+                "Start": "2020-10-08T11:30:00.0000000Z",
+                "Einde": "2020-10-08T12:20:00.0000000Z",
+                "LesuurVan": 6,
+                "LesuurTotMet": 6,
+                "DuurtHeleDag": false,
+                "Omschrijving": "entl - ehn - c6vc",
+                "Lokatie": "A006",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1226,
+                        "Naam": "Engelse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 681,
+                        "Naam": "E.A.C. Heijne",
+                        "Docentcode": "ehn"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A006 (Theorielokaal en)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096732,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096775"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096732"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096734"
+                    }
+                ],
+                "Start": "2020-10-09T07:20:00.0000000Z",
+                "Einde": "2020-10-09T08:10:00.0000000Z",
+                "LesuurVan": 2,
+                "LesuurTotMet": 2,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nlt - pvs - c6vnlt1",
+                "Lokatie": "A212",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1200,
+                        "Naam": "natuur, leven en technologie"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 439,
+                        "Naam": "P.C. van Schagen",
+                        "Docentcode": "pvs"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A212 (Praktijklokaal SK)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096734,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096732"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096734"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096719"
+                    }
+                ],
+                "Start": "2020-10-09T08:10:00.0000000Z",
+                "Einde": "2020-10-09T09:00:00.0000000Z",
+                "LesuurVan": 3,
+                "LesuurTotMet": 3,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nlt - pvs - c6vnlt1",
+                "Lokatie": "A212",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1200,
+                        "Naam": "natuur, leven en technologie"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 439,
+                        "Naam": "P.C. van Schagen",
+                        "Docentcode": "pvs"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A212 (Praktijklokaal SK)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096719,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096734"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096719"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096745"
+                    }
+                ],
+                "Start": "2020-10-09T09:25:00.0000000Z",
+                "Einde": "2020-10-09T10:15:00.0000000Z",
+                "LesuurVan": 4,
+                "LesuurTotMet": 4,
+                "DuurtHeleDag": false,
+                "Omschrijving": "wisB - jho - c6vwisb1",
+                "Lokatie": "C202",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": "<p>H14: 28 t/m 34</p>",
+                "InfoType": 1,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1190,
+                        "Naam": "wiskunde B"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 502,
+                        "Naam": "J. van Hooff",
+                        "Docentcode": "jho"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "C202 (Connected Classroom)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096745,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096719"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096745"
+                    },
+                    {
+                        "Rel": "Next",
+                        "Href": "/api/personen/25145/afspraken/4096773"
+                    }
+                ],
+                "Start": "2020-10-09T11:30:00.0000000Z",
+                "Einde": "2020-10-09T12:20:00.0000000Z",
+                "LesuurVan": 6,
+                "LesuurTotMet": 6,
+                "DuurtHeleDag": false,
+                "Omschrijving": "nat - pzu - c6vnat3",
+                "Lokatie": "A202",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1188,
+                        "Naam": "natuurkunde"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 413,
+                        "Naam": "P.W. Zuurbier",
+                        "Docentcode": "pzu"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A202 (Praktijklokaal NA)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            },
+            {
+                "Id": 4096773,
+                "Links": [
+                    {
+                        "Rel": "Prev",
+                        "Href": "/api/personen/25145/afspraken/4096745"
+                    },
+                    {
+                        "Rel": "Self",
+                        "Href": "/api/personen/25145/afspraken/4096773"
+                    }
+                ],
+                "Start": "2020-10-09T12:20:00.0000000Z",
+                "Einde": "2020-10-09T13:10:00.0000000Z",
+                "LesuurVan": 7,
+                "LesuurTotMet": 7,
+                "DuurtHeleDag": false,
+                "Omschrijving": "entl - ehn - c6vc",
+                "Lokatie": "A007",
+                "Status": 1,
+                "Type": 13,
+                "IsOnlineDeelname": false,
+                "WeergaveType": 0,
+                "Inhoud": null,
+                "InfoType": 0,
+                "Aantekening": null,
+                "Afgerond": false,
+                "HerhaalStatus": 0,
+                "Herhaling": null,
+                "Vakken": [
+                    {
+                        "Id": 1226,
+                        "Naam": "Engelse taal en literatuur"
+                    }
+                ],
+                "Docenten": [
+                    {
+                        "Id": 681,
+                        "Naam": "E.A.C. Heijne",
+                        "Docentcode": "ehn"
+                    }
+                ],
+                "Lokalen": [
+                    {
+                        "Naam": "A007 (Theorielokaal en)"
+                    }
+                ],
+                "Groepen": null,
+                "OpdrachtId": 0,
+                "HeeftBijlagen": false,
+                "Bijlagen": null
+            }
+        ],
+        "TotalCount": 30,
+        "Links": []
+    }
+}
